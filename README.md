@@ -24,7 +24,6 @@ Gesture recognition helps computers interpret human movements, crucial for Sign 
   7. Output Layer with Sigmoid
 
 ## Results:
-- Training Set Accuracy: 96.06%
-- Test Set Accuracy: 87.77%
+- Accuracy: 96.15%
 
 Suggestions are always welcome!
